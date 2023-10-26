@@ -5,6 +5,13 @@ This project is a web application that allows users to upload videos containing 
 The frontend of this application is built with React.js, while the backend uses Django. User authentication is included, with a login page for users.
 
 ## Application
+Landing page
+
+https://github.com/RohanSoni-02/fish-detection-and-tracking/assets/110955425/19105c17-575d-4ac3-9fb1-97d587917d89
+
+User authentication
+
+https://github.com/RohanSoni-02/fish-detection-and-tracking/assets/110955425/35b1c2ad-c8a4-4f83-8884-8bb3cebdb4b7
 
 
 ## Getting Started
