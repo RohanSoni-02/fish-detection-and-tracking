@@ -1,15 +1,22 @@
 # Video Image Analysis for Object Detection and Tracking
-
+Capstone project for my final year at Swinburne University of Technology. Worked on the frontend of the application.
 This project is a web application that allows users to upload videos containing fish, which are then analyzed using a machine-learning model for object detection and tracking. The processed video can be downloaded with bounding boxes showing the detected objects. The application also provides statistics derived from the processed video.
 
 The frontend of this application is built with React.js, while the backend uses Django. User authentication is included, with a login page for users.
 
+## Application
+
+
 ## Getting Started
+
+### Presentation Video
+This is a YouTube link that explains the system in detail.
+https://www.youtube.com/watch?v=qmF8WcqDUOU
 
 ### Prerequisites
 
-- Docker
-
+- NodeJs
+- Python
 - Git
 
 ### Installing
