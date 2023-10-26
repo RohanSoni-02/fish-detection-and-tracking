@@ -13,12 +13,19 @@ User authentication
 
 https://github.com/RohanSoni-02/fish-detection-and-tracking/assets/110955425/35b1c2ad-c8a4-4f83-8884-8bb3cebdb4b7
 
+Upload page
 
-## Getting Started
+https://github.com/RohanSoni-02/fish-detection-and-tracking/assets/110955425/6af44d08-180e-4221-854c-7cd2bf512c52
+
+User history and  Ml algorithm page
+
+https://github.com/RohanSoni-02/fish-detection-and-tracking/assets/110955425/567ba76f-ff47-44a9-b4a0-2598c44be88f
 
 ### Presentation Video
 This is a YouTube link that explains the system in detail.
 https://www.youtube.com/watch?v=qmF8WcqDUOU
+
+## Getting Started
 
 ### Prerequisites
 
