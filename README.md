@@ -4,6 +4,10 @@ This project is a web application that allows users to upload videos containing 
 
 The frontend of this application is built with React.js, while the backend uses Django. User authentication is included, with a login page for users.
 
+#UML/Sequence Diagram
+<img width="1408" alt="Screenshot 2025-02-09 at 5 18 39 AM" src="https://github.com/user-attachments/assets/eef29428-5bcd-4598-9e9b-dfe990dd4440" />
+
+
 ## Application
 Landing page
 
