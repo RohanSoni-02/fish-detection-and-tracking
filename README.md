@@ -1,6 +1,6 @@
 # Video Image Analysis for Object Detection and Tracking
-Capstone project for my final year at Swinburne University of Technology. Worked on the frontend of the application.
-This project is a web application that allows users to upload videos containing fish, which are then analyzed using a machine-learning model for object detection and tracking. The processed video can be downloaded with bounding boxes showing the detected objects. The application also provides statistics derived from the processed video.
+Capstone project for my final year at Swinburne University of Technology.
+This project is a web-based application that enables users to upload videos containing fish, which are then analyzed using a machine-learning model for object detection and tracking. The system leverages the YOLOv8 algorithm to accurately detect and track fish within the video frames. Once processed, users can download the annotated video with bounding boxes highlighting detected fish. Additionally, the application provides statistical insights, such as fish count and movement patterns, derived from the analyzed footage. This tool aims to assist researchers, marine biologists, and fisheries in studying aquatic life efficiently.
 
 The frontend of this application is built with React.js, while the backend uses Django. User authentication is included, with a login page for users.
 
